@@ -1,0 +1,25 @@
+{
+  "name": "file-system",
+  "version": "1.0.0",
+  "description": "<!-- # LAB - Class 16 --> __Version:__ 1.0.0   __Author:__ Peter Cole",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petercole-401-advanced-javascript/file-system.git"
+  },
+  "author": "Peter Cole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petercole-401-advanced-javascript/file-system/issues"
+  },
+  "homepage": "https://github.com/petercole-401-advanced-javascript/file-system#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
