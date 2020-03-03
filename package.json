@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/petercole-401-advanced-javascript/file-system#readme",
   "dependencies": {
-    "jest": "^25.1.0"
+    "jest": "^25.1.0",
+    "util": "^0.12.2"
   }
 }
